@@ -1,5 +1,5 @@
 # Inteligencia Artificial I
-## 2016 - Semestre II - Universidad Industrial de Santander
+## 2017 - Semestre I - Universidad Industrial de Santander
 
 _Regístrate [aquí](https://docs.google.com/a/unal.edu.co/forms/d/1mNpJ7IRkqjBasCD-hXVzOBTU0Q65gefZJbbAHQ-lASY/edit?usp=drive_web)_
 
